@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">"Bob's Books"</string>
+    <string name="title_activity_navigation">Bobs Books</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_task">Search</string>
+    <string name="title_note">Favorites</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_book">Add Book</string>
+</resources>

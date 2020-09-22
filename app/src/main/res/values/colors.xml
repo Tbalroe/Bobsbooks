@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#C8E4FE</color>
+    <color name="colorPrimary">#A82608</color>
+    <color name="colorPrimaryDark">#6B9DAA</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorBottomBar">#DAEBE9</color>
+    <color name="colorrecyclerview">#6b9daa</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGrey">#DFDFDF</color>
+    <color name="textselectedcolor">#A82608</color>
+</resources>
